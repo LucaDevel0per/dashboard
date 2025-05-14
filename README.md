@@ -28,7 +28,7 @@ Este projeto é um **dashboard interativo de finanças pessoais** desenvolvido c
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/LucaDevel0per/dashboard.git
 cd seu-repo
 ```
 
