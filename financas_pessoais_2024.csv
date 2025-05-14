@@ -1,0 +1,951 @@
+Data,Tipo,Valor,Categoria,Descrição,Forma de Pagamento
+2024-01-01,Receita,1170.57,Presente,Presente de aniversário,Cartão de Débito
+2024-01-01,Despesa,311.15,Alimentação,Supermercado,PIX
+2024-01-02,Receita,2356.95,Rendimento Investimento,CDB,Dinheiro
+2024-01-02,Receita,4550.97,Presente,Ajuda familiar,Cartão de Débito
+2024-01-02,Receita,5768.35,Presente,Ajuda familiar,Cartão de Débito
+2024-01-02,Despesa,380.08,Educação,Curso online,PIX
+2024-01-03,Receita,3078.94,Rendimento Investimento,CDB,Cartão de Crédito
+2024-01-03,Receita,2935.3,Presente,Presente de aniversário,Dinheiro
+2024-01-03,Despesa,887.54,Lazer,Bar,PIX
+2024-01-04,Receita,2263.53,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-01-04,Receita,1735.85,Salário,Salário Mensal,PIX
+2024-01-04,Receita,5104.01,Freelance,Projeto X,Dinheiro
+2024-01-04,Despesa,842.68,Lazer,Bar,Cartão de Débito
+2024-01-04,Despesa,448.75,Assinaturas,Netflix,Cartão de Crédito
+2024-01-05,Receita,1148.46,Presente,Presente de aniversário,PIX
+2024-01-05,Despesa,121.9,Impostos,IPTU,PIX
+2024-01-06,Receita,2093.85,Rendimento Investimento,Ações,PIX
+2024-01-06,Despesa,1020.95,Moradia,Conta de Luz,Dinheiro
+2024-01-06,Despesa,301.48,Moradia,Internet,Transferência
+2024-01-06,Despesa,383.0,Compras,Roupas,Cartão de Débito
+2024-01-07,Receita,5356.23,Rendimento Investimento,CDB,Dinheiro
+2024-01-07,Despesa,956.88,Educação,Livros,PIX
+2024-01-08,Receita,3884.57,Salário,Salário Mensal,Cartão de Débito
+2024-01-08,Receita,4495.06,Salário,Salário Mensal,Cartão de Crédito
+2024-01-08,Despesa,1011.67,Saúde,Plano de saúde,Transferência
+2024-01-08,Despesa,215.24,Moradia,Aluguel,Dinheiro
+2024-01-08,Despesa,82.79,Educação,Livros,Transferência
+2024-01-09,Receita,4927.7,Rendimento Investimento,Ações,Cartão de Crédito
+2024-01-09,Receita,5758.18,Rendimento Investimento,Ações,PIX
+2024-01-09,Despesa,855.68,Transporte,Combustível,Cartão de Débito
+2024-01-10,Receita,3910.11,Salário,Salário Mensal,PIX
+2024-01-10,Despesa,403.19,Lazer,Bar,PIX
+2024-01-11,Despesa,788.48,Alimentação,Restaurante,PIX
+2024-01-11,Despesa,106.18,Lazer,Netflix,Transferência
+2024-01-12,Despesa,618.32,Impostos,Imposto de Renda,PIX
+2024-01-12,Despesa,929.23,Lazer,Netflix,PIX
+2024-01-13,Despesa,1104.67,Lazer,Viagem,Dinheiro
+2024-01-14,Despesa,923.31,Compras,Presentes,PIX
+2024-01-15,Despesa,390.78,Lazer,Netflix,Cartão de Crédito
+2024-01-15,Despesa,180.4,Assinaturas,Netflix,Dinheiro
+2024-01-15,Despesa,1179.24,Transporte,Uber,Cartão de Débito
+2024-01-16,Despesa,839.55,Lazer,Cinema,Transferência
+2024-01-16,Despesa,661.15,Impostos,Imposto de Renda,PIX
+2024-01-17,Despesa,622.44,Moradia,Aluguel,Transferência
+2024-01-17,Despesa,649.53,Alimentação,Restaurante,Transferência
+2024-01-17,Despesa,740.3,Compras,Presentes,Cartão de Débito
+2024-01-18,Despesa,1182.56,Lazer,Viagem,Transferência
+2024-01-18,Despesa,815.58,Compras,Roupas,Transferência
+2024-01-18,Despesa,1148.71,Alimentação,Padaria,Transferência
+2024-01-19,Despesa,730.41,Assinaturas,Amazon Prime,Cartão de Crédito
+2024-01-19,Despesa,928.77,Assinaturas,Amazon Prime,Cartão de Débito
+2024-01-20,Despesa,857.29,Transporte,Manutenção carro,Dinheiro
+2024-01-20,Despesa,680.29,Moradia,Internet,Cartão de Crédito
+2024-01-20,Despesa,124.67,Educação,Curso online,Cartão de Crédito
+2024-01-21,Despesa,750.32,Moradia,Conta de Luz,Cartão de Débito
+2024-01-21,Despesa,926.25,Compras,Eletrônicos,Cartão de Crédito
+2024-01-22,Despesa,1138.07,Moradia,Aluguel,Dinheiro
+2024-01-22,Despesa,881.86,Compras,Roupas,Cartão de Crédito
+2024-01-23,Despesa,567.85,Impostos,Imposto de Renda,PIX
+2024-01-23,Despesa,185.02,Saúde,Plano de saúde,Transferência
+2024-01-23,Despesa,274.83,Lazer,Netflix,Dinheiro
+2024-01-24,Despesa,784.66,Impostos,IPVA,Transferência
+2024-01-24,Despesa,424.57,Transporte,Uber,PIX
+2024-01-25,Despesa,153.32,Moradia,Conta de Luz,Transferência
+2024-01-25,Despesa,301.73,Saúde,Consulta médica,Cartão de Débito
+2024-01-26,Despesa,975.86,Transporte,Combustível,Transferência
+2024-01-26,Despesa,591.49,Assinaturas,Netflix,PIX
+2024-01-27,Despesa,134.42,Lazer,Viagem,PIX
+2024-01-27,Despesa,262.48,Compras,Presentes,Cartão de Débito
+2024-01-27,Despesa,331.52,Transporte,Manutenção carro,PIX
+2024-01-28,Despesa,785.19,Moradia,Aluguel,Transferência
+2024-01-28,Despesa,393.39,Transporte,Manutenção carro,PIX
+2024-01-29,Despesa,962.97,Impostos,IPVA,Cartão de Crédito
+2024-01-29,Despesa,437.8,Lazer,Netflix,Dinheiro
+2024-01-30,Despesa,330.57,Moradia,Conta de Água,Cartão de Débito
+2024-01-31,Despesa,770.73,Impostos,IPVA,PIX
+2024-01-31,Despesa,156.92,Compras,Roupas,PIX
+2024-02-01,Receita,2332.9,Rendimento Investimento,Tesouro Direto,Cartão de Débito
+2024-02-01,Receita,4062.29,Rendimento Investimento,Ações,Cartão de Crédito
+2024-02-01,Despesa,396.79,Assinaturas,Spotify,Cartão de Débito
+2024-02-01,Despesa,601.34,Moradia,Aluguel,Transferência
+2024-02-02,Receita,4224.12,Rendimento Investimento,Tesouro Direto,Cartão de Débito
+2024-02-02,Receita,4406.27,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-02-02,Receita,4362.44,Salário,Salário Mensal,Cartão de Débito
+2024-02-02,Despesa,86.41,Impostos,IPTU,Dinheiro
+2024-02-03,Receita,2118.49,Freelance,Serviço Y,Transferência
+2024-02-03,Receita,4927.33,Rendimento Investimento,CDB,Cartão de Crédito
+2024-02-03,Despesa,761.74,Moradia,Conta de Luz,Transferência
+2024-02-03,Despesa,564.43,Impostos,IPTU,Cartão de Débito
+2024-02-04,Receita,3076.48,Rendimento Investimento,CDB,PIX
+2024-02-04,Receita,639.69,Rendimento Investimento,Tesouro Direto,Cartão de Débito
+2024-02-04,Receita,2170.82,Salário,Salário Mensal,PIX
+2024-02-04,Despesa,170.35,Assinaturas,Netflix,Cartão de Débito
+2024-02-05,Receita,5269.69,Rendimento Investimento,CDB,PIX
+2024-02-05,Receita,4843.09,Freelance,Projeto X,Cartão de Débito
+2024-02-05,Despesa,1076.26,Moradia,Internet,Cartão de Débito
+2024-02-05,Despesa,1004.34,Lazer,Bar,Cartão de Débito
+2024-02-05,Despesa,113.83,Lazer,Netflix,Dinheiro
+2024-02-06,Receita,638.94,Salário,Salário Mensal,Cartão de Débito
+2024-02-06,Receita,1077.22,Freelance,Projeto X,PIX
+2024-02-06,Despesa,605.0,Assinaturas,Amazon Prime,Transferência
+2024-02-07,Receita,1129.15,Freelance,Serviço Y,Transferência
+2024-02-07,Receita,5476.51,Salário,Salário Mensal,Transferência
+2024-02-07,Receita,3289.73,Freelance,Serviço Y,Cartão de Débito
+2024-02-07,Despesa,90.04,Lazer,Cinema,PIX
+2024-02-07,Despesa,1159.93,Compras,Presentes,Cartão de Débito
+2024-02-08,Receita,2365.22,Presente,Presente de aniversário,Dinheiro
+2024-02-08,Receita,2534.14,Presente,Ajuda familiar,Cartão de Débito
+2024-02-08,Receita,2668.58,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-02-08,Despesa,515.11,Compras,Presentes,Cartão de Crédito
+2024-02-08,Despesa,824.45,Moradia,Internet,Cartão de Crédito
+2024-02-09,Receita,5781.35,Presente,Ajuda familiar,Transferência
+2024-02-09,Receita,4956.81,Salário,Salário Mensal,Cartão de Débito
+2024-02-09,Receita,4638.0,Salário,Salário Mensal,Dinheiro
+2024-02-09,Despesa,1142.58,Saúde,Farmácia,Cartão de Crédito
+2024-02-09,Despesa,755.63,Saúde,Plano de saúde,Cartão de Crédito
+2024-02-09,Despesa,702.05,Saúde,Farmácia,Transferência
+2024-02-10,Receita,5152.27,Rendimento Investimento,Ações,Cartão de Débito
+2024-02-10,Receita,5943.13,Salário,Salário Mensal,Transferência
+2024-02-10,Receita,2852.74,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-02-10,Despesa,271.03,Lazer,Netflix,Dinheiro
+2024-02-10,Despesa,846.46,Educação,Faculdade,Cartão de Crédito
+2024-02-10,Despesa,132.7,Alimentação,Padaria,Transferência
+2024-02-11,Despesa,709.02,Compras,Eletrônicos,PIX
+2024-02-11,Despesa,393.57,Moradia,Aluguel,Transferência
+2024-02-12,Despesa,73.28,Moradia,Aluguel,Cartão de Crédito
+2024-02-12,Despesa,431.69,Saúde,Farmácia,Transferência
+2024-02-13,Despesa,1027.31,Saúde,Consulta médica,PIX
+2024-02-13,Despesa,996.61,Alimentação,Restaurante,Transferência
+2024-02-13,Despesa,538.25,Alimentação,Supermercado,Dinheiro
+2024-02-14,Despesa,132.17,Moradia,Conta de Água,Cartão de Crédito
+2024-02-14,Despesa,578.48,Alimentação,Restaurante,Cartão de Crédito
+2024-02-15,Despesa,539.85,Transporte,Combustível,Cartão de Crédito
+2024-02-15,Despesa,880.74,Transporte,Ônibus,Cartão de Débito
+2024-02-16,Despesa,317.69,Transporte,Combustível,Cartão de Débito
+2024-02-17,Despesa,218.26,Alimentação,Supermercado,Cartão de Débito
+2024-02-17,Despesa,909.54,Alimentação,Padaria,PIX
+2024-02-17,Despesa,1174.31,Moradia,Conta de Água,Cartão de Crédito
+2024-02-18,Despesa,375.27,Moradia,Conta de Água,PIX
+2024-02-19,Despesa,1101.37,Lazer,Bar,PIX
+2024-02-19,Despesa,171.94,Moradia,Aluguel,PIX
+2024-02-20,Despesa,620.92,Impostos,Imposto de Renda,Transferência
+2024-02-20,Despesa,869.74,Transporte,Manutenção carro,Cartão de Crédito
+2024-02-21,Despesa,1039.39,Transporte,Uber,Cartão de Débito
+2024-02-21,Despesa,609.15,Impostos,IPTU,Cartão de Crédito
+2024-02-22,Despesa,253.09,Educação,Curso online,Cartão de Débito
+2024-02-23,Despesa,514.94,Alimentação,Restaurante,Transferência
+2024-02-23,Despesa,544.55,Lazer,Bar,Cartão de Crédito
+2024-02-23,Despesa,893.51,Moradia,Conta de Água,Dinheiro
+2024-02-24,Despesa,277.62,Transporte,Manutenção carro,Dinheiro
+2024-02-25,Despesa,399.62,Transporte,Manutenção carro,Cartão de Crédito
+2024-02-25,Despesa,278.51,Impostos,IPTU,Dinheiro
+2024-02-26,Despesa,918.53,Lazer,Cinema,Cartão de Débito
+2024-02-26,Despesa,999.6,Educação,Curso online,PIX
+2024-02-27,Despesa,561.57,Alimentação,Padaria,Cartão de Débito
+2024-02-28,Despesa,934.1,Moradia,Aluguel,PIX
+2024-02-28,Despesa,835.17,Alimentação,Supermercado,PIX
+2024-02-29,Despesa,535.25,Educação,Livros,Transferência
+2024-02-29,Despesa,655.11,Saúde,Plano de saúde,Cartão de Crédito
+2024-03-01,Receita,3566.56,Salário,Salário Mensal,Cartão de Crédito
+2024-03-01,Despesa,122.03,Alimentação,Supermercado,PIX
+2024-03-01,Despesa,827.44,Compras,Eletrônicos,Dinheiro
+2024-03-01,Despesa,1108.55,Assinaturas,Spotify,Transferência
+2024-03-02,Receita,5958.4,Salário,Salário Mensal,Dinheiro
+2024-03-02,Despesa,270.03,Educação,Faculdade,Cartão de Crédito
+2024-03-02,Despesa,88.67,Lazer,Viagem,Cartão de Débito
+2024-03-02,Despesa,538.61,Impostos,Imposto de Renda,PIX
+2024-03-03,Receita,2026.35,Salário,Salário Mensal,PIX
+2024-03-03,Despesa,740.3,Educação,Faculdade,Transferência
+2024-03-03,Despesa,596.55,Impostos,IPVA,Dinheiro
+2024-03-04,Receita,3403.65,Freelance,Serviço Y,Cartão de Débito
+2024-03-04,Despesa,285.33,Impostos,IPVA,Cartão de Débito
+2024-03-05,Receita,1700.45,Presente,Presente de aniversário,Dinheiro
+2024-03-05,Despesa,1194.79,Transporte,Manutenção carro,Cartão de Crédito
+2024-03-05,Despesa,689.46,Alimentação,Padaria,Cartão de Débito
+2024-03-06,Receita,832.11,Salário,Salário Mensal,Cartão de Crédito
+2024-03-06,Receita,5000.22,Rendimento Investimento,Tesouro Direto,PIX
+2024-03-06,Despesa,718.96,Alimentação,Padaria,Cartão de Crédito
+2024-03-07,Receita,1230.57,Salário,Salário Mensal,Dinheiro
+2024-03-07,Despesa,1043.63,Impostos,IPVA,PIX
+2024-03-07,Despesa,639.49,Educação,Livros,Cartão de Crédito
+2024-03-08,Receita,4009.02,Freelance,Projeto X,Dinheiro
+2024-03-08,Receita,3282.61,Freelance,Projeto X,Cartão de Crédito
+2024-03-08,Receita,4693.07,Salário,Salário Mensal,PIX
+2024-03-08,Despesa,79.91,Alimentação,Padaria,Cartão de Crédito
+2024-03-09,Receita,1505.36,Presente,Ajuda familiar,Dinheiro
+2024-03-09,Receita,4334.95,Freelance,Serviço Y,Dinheiro
+2024-03-09,Receita,5921.98,Rendimento Investimento,Ações,PIX
+2024-03-09,Despesa,1188.45,Assinaturas,Netflix,Cartão de Débito
+2024-03-10,Receita,2039.94,Freelance,Projeto X,Transferência
+2024-03-10,Receita,2973.7,Salário,Salário Mensal,PIX
+2024-03-10,Despesa,178.42,Lazer,Cinema,PIX
+2024-03-11,Despesa,372.23,Lazer,Cinema,Dinheiro
+2024-03-12,Despesa,382.59,Impostos,Imposto de Renda,PIX
+2024-03-12,Despesa,92.8,Educação,Faculdade,Transferência
+2024-03-12,Despesa,327.81,Alimentação,Padaria,Cartão de Débito
+2024-03-13,Despesa,863.15,Impostos,IPVA,Transferência
+2024-03-13,Despesa,1154.12,Compras,Eletrônicos,Dinheiro
+2024-03-14,Despesa,895.18,Moradia,Conta de Água,PIX
+2024-03-15,Despesa,694.35,Impostos,IPTU,Transferência
+2024-03-15,Despesa,378.11,Assinaturas,Amazon Prime,Dinheiro
+2024-03-16,Despesa,579.47,Saúde,Plano de saúde,Cartão de Débito
+2024-03-17,Despesa,145.7,Compras,Eletrônicos,Cartão de Crédito
+2024-03-17,Despesa,242.65,Assinaturas,Spotify,Dinheiro
+2024-03-18,Despesa,305.12,Impostos,Imposto de Renda,Cartão de Crédito
+2024-03-18,Despesa,1099.19,Transporte,Combustível,Dinheiro
+2024-03-18,Despesa,1044.49,Moradia,Conta de Água,PIX
+2024-03-19,Despesa,783.32,Transporte,Combustível,Transferência
+2024-03-19,Despesa,576.83,Saúde,Consulta médica,PIX
+2024-03-20,Despesa,515.9,Impostos,Imposto de Renda,PIX
+2024-03-20,Despesa,271.4,Lazer,Bar,Transferência
+2024-03-20,Despesa,677.87,Transporte,Uber,Cartão de Crédito
+2024-03-21,Despesa,1199.92,Assinaturas,Netflix,PIX
+2024-03-22,Despesa,1075.46,Educação,Livros,Cartão de Débito
+2024-03-22,Despesa,754.36,Compras,Presentes,Cartão de Crédito
+2024-03-22,Despesa,915.5,Transporte,Combustível,Dinheiro
+2024-03-23,Despesa,1069.86,Transporte,Ônibus,Cartão de Crédito
+2024-03-24,Despesa,382.02,Saúde,Plano de saúde,PIX
+2024-03-24,Despesa,1074.53,Moradia,Aluguel,Transferência
+2024-03-25,Despesa,876.52,Assinaturas,Spotify,PIX
+2024-03-25,Despesa,299.6,Transporte,Manutenção carro,Cartão de Débito
+2024-03-26,Despesa,498.41,Moradia,Conta de Água,Cartão de Crédito
+2024-03-27,Despesa,163.37,Moradia,Conta de Água,Cartão de Débito
+2024-03-27,Despesa,104.29,Moradia,Internet,PIX
+2024-03-28,Despesa,311.62,Saúde,Plano de saúde,Cartão de Crédito
+2024-03-28,Despesa,335.03,Assinaturas,Netflix,Transferência
+2024-03-29,Despesa,201.36,Impostos,Imposto de Renda,Cartão de Débito
+2024-03-29,Despesa,1145.23,Moradia,Conta de Luz,Transferência
+2024-03-30,Despesa,961.91,Assinaturas,Spotify,Cartão de Crédito
+2024-03-31,Despesa,69.84,Lazer,Cinema,PIX
+2024-03-31,Despesa,60.93,Compras,Eletrônicos,Dinheiro
+2024-03-31,Despesa,730.21,Moradia,Aluguel,Dinheiro
+2024-04-01,Receita,2657.57,Freelance,Serviço Y,Transferência
+2024-04-01,Receita,1201.22,Presente,Presente de aniversário,Dinheiro
+2024-04-01,Receita,5481.84,Salário,Salário Mensal,Cartão de Crédito
+2024-04-01,Despesa,265.85,Compras,Presentes,Transferência
+2024-04-02,Receita,5055.04,Salário,Salário Mensal,Dinheiro
+2024-04-02,Receita,4496.74,Rendimento Investimento,Tesouro Direto,PIX
+2024-04-02,Despesa,868.62,Lazer,Viagem,Cartão de Crédito
+2024-04-02,Despesa,438.59,Compras,Presentes,Transferência
+2024-04-02,Despesa,144.26,Compras,Presentes,Dinheiro
+2024-04-03,Receita,1735.6,Rendimento Investimento,CDB,Cartão de Crédito
+2024-04-03,Receita,4868.7,Freelance,Projeto X,PIX
+2024-04-03,Receita,4695.89,Freelance,Projeto X,Cartão de Crédito
+2024-04-03,Despesa,341.69,Impostos,Imposto de Renda,Cartão de Crédito
+2024-04-03,Despesa,548.58,Saúde,Plano de saúde,Cartão de Débito
+2024-04-04,Receita,3051.07,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-04-04,Despesa,541.63,Lazer,Viagem,Transferência
+2024-04-05,Receita,5740.49,Presente,Ajuda familiar,Cartão de Crédito
+2024-04-05,Despesa,396.16,Assinaturas,Netflix,Transferência
+2024-04-05,Despesa,298.71,Saúde,Farmácia,Dinheiro
+2024-04-05,Despesa,1029.1,Alimentação,Supermercado,Cartão de Débito
+2024-04-06,Receita,5962.0,Salário,Salário Mensal,PIX
+2024-04-06,Receita,3157.26,Presente,Ajuda familiar,Cartão de Crédito
+2024-04-06,Receita,1264.08,Presente,Ajuda familiar,Dinheiro
+2024-04-06,Despesa,57.89,Impostos,IPTU,PIX
+2024-04-07,Receita,2454.52,Salário,Salário Mensal,Cartão de Crédito
+2024-04-07,Despesa,863.13,Saúde,Consulta médica,Cartão de Crédito
+2024-04-07,Despesa,751.04,Compras,Roupas,Cartão de Crédito
+2024-04-08,Receita,4015.32,Presente,Presente de aniversário,Cartão de Débito
+2024-04-08,Receita,3569.54,Presente,Presente de aniversário,Cartão de Crédito
+2024-04-08,Despesa,611.1,Saúde,Consulta médica,Cartão de Débito
+2024-04-08,Despesa,678.69,Compras,Eletrônicos,Cartão de Débito
+2024-04-08,Despesa,47.93,Lazer,Viagem,PIX
+2024-04-09,Receita,1774.47,Salário,Salário Mensal,Cartão de Débito
+2024-04-09,Receita,4049.39,Freelance,Projeto X,Cartão de Crédito
+2024-04-09,Receita,3083.17,Presente,Presente de aniversário,Dinheiro
+2024-04-09,Despesa,738.43,Saúde,Plano de saúde,Transferência
+2024-04-09,Despesa,404.9,Educação,Faculdade,Cartão de Crédito
+2024-04-10,Receita,1584.62,Rendimento Investimento,CDB,Transferência
+2024-04-10,Despesa,763.72,Transporte,Ônibus,Transferência
+2024-04-11,Despesa,133.91,Moradia,Conta de Água,Dinheiro
+2024-04-12,Despesa,306.45,Compras,Eletrônicos,Cartão de Crédito
+2024-04-12,Despesa,961.46,Educação,Livros,Transferência
+2024-04-12,Despesa,61.33,Alimentação,Restaurante,Cartão de Crédito
+2024-04-13,Despesa,559.33,Educação,Curso online,Dinheiro
+2024-04-14,Despesa,741.01,Educação,Curso online,Transferência
+2024-04-14,Despesa,431.43,Impostos,IPVA,PIX
+2024-04-15,Despesa,1007.42,Saúde,Farmácia,Transferência
+2024-04-15,Despesa,160.64,Impostos,IPVA,Cartão de Crédito
+2024-04-15,Despesa,1059.39,Compras,Roupas,Transferência
+2024-04-16,Despesa,710.74,Saúde,Consulta médica,Cartão de Débito
+2024-04-16,Despesa,966.62,Educação,Curso online,Transferência
+2024-04-17,Despesa,809.85,Assinaturas,Spotify,Cartão de Crédito
+2024-04-17,Despesa,330.64,Saúde,Farmácia,Transferência
+2024-04-17,Despesa,727.24,Saúde,Plano de saúde,Cartão de Débito
+2024-04-18,Despesa,789.41,Saúde,Consulta médica,PIX
+2024-04-19,Despesa,515.83,Educação,Curso online,Transferência
+2024-04-20,Despesa,486.47,Lazer,Bar,Cartão de Crédito
+2024-04-20,Despesa,505.97,Compras,Roupas,Cartão de Crédito
+2024-04-20,Despesa,545.62,Lazer,Cinema,Cartão de Crédito
+2024-04-21,Despesa,892.68,Saúde,Plano de saúde,Cartão de Crédito
+2024-04-21,Despesa,266.39,Moradia,Internet,PIX
+2024-04-21,Despesa,307.66,Transporte,Combustível,PIX
+2024-04-22,Despesa,176.75,Assinaturas,Netflix,Transferência
+2024-04-22,Despesa,761.27,Lazer,Cinema,Cartão de Débito
+2024-04-22,Despesa,515.33,Moradia,Conta de Água,Cartão de Crédito
+2024-04-23,Despesa,404.77,Transporte,Ônibus,Cartão de Débito
+2024-04-23,Despesa,24.36,Saúde,Farmácia,Cartão de Débito
+2024-04-24,Despesa,522.52,Moradia,Conta de Luz,Cartão de Crédito
+2024-04-24,Despesa,349.37,Educação,Faculdade,Dinheiro
+2024-04-25,Despesa,1024.47,Compras,Presentes,Cartão de Crédito
+2024-04-25,Despesa,1156.47,Alimentação,Padaria,Dinheiro
+2024-04-26,Despesa,944.05,Transporte,Uber,Transferência
+2024-04-27,Despesa,129.03,Lazer,Cinema,PIX
+2024-04-27,Despesa,738.11,Saúde,Farmácia,Dinheiro
+2024-04-27,Despesa,914.75,Compras,Eletrônicos,Dinheiro
+2024-04-28,Despesa,1144.75,Assinaturas,Spotify,PIX
+2024-04-29,Despesa,685.79,Lazer,Cinema,PIX
+2024-04-29,Despesa,1161.37,Alimentação,Supermercado,PIX
+2024-04-29,Despesa,721.09,Compras,Eletrônicos,Cartão de Débito
+2024-04-30,Despesa,870.47,Lazer,Cinema,Transferência
+2024-05-01,Receita,1290.33,Rendimento Investimento,Tesouro Direto,Transferência
+2024-05-01,Despesa,55.72,Alimentação,Padaria,Transferência
+2024-05-02,Receita,1079.86,Rendimento Investimento,Ações,Transferência
+2024-05-02,Despesa,70.45,Saúde,Consulta médica,Cartão de Crédito
+2024-05-02,Despesa,1101.48,Moradia,Conta de Água,Transferência
+2024-05-02,Despesa,756.67,Transporte,Ônibus,Cartão de Crédito
+2024-05-03,Receita,3893.19,Rendimento Investimento,Ações,Cartão de Débito
+2024-05-03,Despesa,178.92,Moradia,Internet,PIX
+2024-05-03,Despesa,179.53,Impostos,Imposto de Renda,Cartão de Débito
+2024-05-03,Despesa,812.9,Impostos,Imposto de Renda,Transferência
+2024-05-04,Receita,4713.07,Salário,Salário Mensal,PIX
+2024-05-04,Receita,3192.89,Rendimento Investimento,CDB,Cartão de Crédito
+2024-05-04,Despesa,149.31,Educação,Faculdade,Cartão de Crédito
+2024-05-04,Despesa,420.86,Impostos,IPTU,PIX
+2024-05-04,Despesa,180.8,Saúde,Farmácia,Cartão de Débito
+2024-05-05,Receita,4001.07,Salário,Salário Mensal,Cartão de Débito
+2024-05-05,Despesa,1052.71,Educação,Livros,Dinheiro
+2024-05-05,Despesa,80.81,Impostos,Imposto de Renda,Cartão de Crédito
+2024-05-06,Receita,3609.48,Presente,Ajuda familiar,Transferência
+2024-05-06,Receita,2781.01,Salário,Salário Mensal,Transferência
+2024-05-06,Receita,1494.15,Freelance,Projeto X,PIX
+2024-05-06,Despesa,675.36,Impostos,IPTU,Cartão de Débito
+2024-05-06,Despesa,846.54,Saúde,Farmácia,Cartão de Crédito
+2024-05-06,Despesa,488.62,Educação,Livros,PIX
+2024-05-07,Receita,2455.46,Presente,Ajuda familiar,Transferência
+2024-05-07,Receita,2924.63,Salário,Salário Mensal,Cartão de Crédito
+2024-05-07,Despesa,953.24,Moradia,Internet,Dinheiro
+2024-05-08,Receita,4166.55,Rendimento Investimento,Tesouro Direto,Transferência
+2024-05-08,Despesa,476.84,Lazer,Viagem,Transferência
+2024-05-08,Despesa,880.91,Alimentação,Restaurante,Dinheiro
+2024-05-09,Receita,4575.49,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-05-09,Receita,3667.6,Salário,Salário Mensal,Transferência
+2024-05-09,Receita,3296.1,Freelance,Projeto X,Dinheiro
+2024-05-09,Despesa,787.62,Educação,Faculdade,Cartão de Crédito
+2024-05-09,Despesa,631.02,Alimentação,Supermercado,Cartão de Débito
+2024-05-09,Despesa,247.68,Lazer,Cinema,Cartão de Crédito
+2024-05-10,Receita,4319.16,Freelance,Projeto X,Cartão de Débito
+2024-05-10,Receita,2524.99,Freelance,Projeto X,Cartão de Crédito
+2024-05-10,Receita,2369.1,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-05-10,Despesa,1145.51,Impostos,IPVA,Dinheiro
+2024-05-10,Despesa,409.27,Assinaturas,Amazon Prime,Dinheiro
+2024-05-11,Despesa,73.79,Alimentação,Padaria,PIX
+2024-05-12,Despesa,540.92,Moradia,Internet,Dinheiro
+2024-05-12,Despesa,1011.85,Lazer,Netflix,PIX
+2024-05-13,Despesa,1148.21,Alimentação,Supermercado,Dinheiro
+2024-05-14,Despesa,627.92,Transporte,Combustível,Cartão de Crédito
+2024-05-14,Despesa,750.15,Assinaturas,Amazon Prime,Cartão de Débito
+2024-05-14,Despesa,343.08,Impostos,IPVA,Cartão de Débito
+2024-05-15,Despesa,919.08,Alimentação,Supermercado,Cartão de Débito
+2024-05-16,Despesa,313.59,Transporte,Ônibus,Cartão de Crédito
+2024-05-16,Despesa,487.79,Saúde,Plano de saúde,Dinheiro
+2024-05-16,Despesa,320.0,Moradia,Internet,Transferência
+2024-05-17,Despesa,1110.94,Educação,Curso online,Cartão de Crédito
+2024-05-17,Despesa,267.43,Alimentação,Padaria,Cartão de Débito
+2024-05-17,Despesa,71.67,Lazer,Viagem,Transferência
+2024-05-18,Despesa,756.18,Moradia,Conta de Luz,Dinheiro
+2024-05-18,Despesa,130.4,Saúde,Plano de saúde,PIX
+2024-05-19,Despesa,483.17,Transporte,Uber,PIX
+2024-05-19,Despesa,686.85,Educação,Faculdade,Cartão de Crédito
+2024-05-19,Despesa,941.37,Compras,Eletrônicos,Cartão de Débito
+2024-05-20,Despesa,943.91,Lazer,Viagem,PIX
+2024-05-20,Despesa,967.9,Alimentação,Supermercado,Dinheiro
+2024-05-21,Despesa,738.16,Assinaturas,Spotify,Dinheiro
+2024-05-21,Despesa,887.94,Lazer,Netflix,Transferência
+2024-05-22,Despesa,595.43,Assinaturas,Amazon Prime,PIX
+2024-05-23,Despesa,641.69,Impostos,IPVA,Cartão de Débito
+2024-05-23,Despesa,950.71,Moradia,Conta de Água,Cartão de Crédito
+2024-05-23,Despesa,681.87,Compras,Presentes,Dinheiro
+2024-05-24,Despesa,980.13,Transporte,Manutenção carro,Cartão de Crédito
+2024-05-24,Despesa,569.51,Impostos,IPVA,Dinheiro
+2024-05-25,Despesa,25.25,Compras,Presentes,PIX
+2024-05-25,Despesa,234.69,Lazer,Netflix,Transferência
+2024-05-25,Despesa,345.81,Compras,Eletrônicos,Dinheiro
+2024-05-26,Despesa,501.75,Compras,Presentes,PIX
+2024-05-27,Despesa,783.66,Lazer,Viagem,Cartão de Débito
+2024-05-27,Despesa,285.53,Lazer,Netflix,Cartão de Débito
+2024-05-27,Despesa,753.02,Impostos,IPTU,Cartão de Crédito
+2024-05-28,Despesa,381.12,Educação,Faculdade,Transferência
+2024-05-29,Despesa,1123.03,Educação,Faculdade,Dinheiro
+2024-05-29,Despesa,108.95,Educação,Curso online,PIX
+2024-05-29,Despesa,330.01,Assinaturas,Amazon Prime,Dinheiro
+2024-05-30,Despesa,1134.9,Impostos,IPTU,PIX
+2024-05-31,Despesa,188.2,Impostos,Imposto de Renda,Cartão de Crédito
+2024-05-31,Despesa,295.35,Compras,Eletrônicos,Cartão de Débito
+2024-05-31,Despesa,724.72,Educação,Faculdade,PIX
+2024-06-01,Receita,854.32,Rendimento Investimento,CDB,Dinheiro
+2024-06-01,Receita,5394.8,Salário,Salário Mensal,Cartão de Crédito
+2024-06-01,Despesa,583.75,Moradia,Internet,Transferência
+2024-06-01,Despesa,437.95,Lazer,Netflix,Cartão de Débito
+2024-06-02,Receita,5128.87,Salário,Salário Mensal,PIX
+2024-06-02,Receita,2455.7,Salário,Salário Mensal,Dinheiro
+2024-06-02,Receita,796.42,Rendimento Investimento,Tesouro Direto,Cartão de Débito
+2024-06-02,Despesa,545.75,Lazer,Cinema,Cartão de Crédito
+2024-06-02,Despesa,634.55,Compras,Presentes,Cartão de Crédito
+2024-06-02,Despesa,840.85,Compras,Eletrônicos,PIX
+2024-06-03,Receita,1810.9,Salário,Salário Mensal,Dinheiro
+2024-06-03,Despesa,127.51,Compras,Presentes,Transferência
+2024-06-03,Despesa,512.23,Assinaturas,Spotify,PIX
+2024-06-03,Despesa,1104.04,Impostos,Imposto de Renda,Transferência
+2024-06-04,Receita,2381.29,Rendimento Investimento,Ações,Cartão de Débito
+2024-06-04,Despesa,176.19,Transporte,Combustível,Dinheiro
+2024-06-04,Despesa,20.58,Alimentação,Supermercado,PIX
+2024-06-04,Despesa,1047.71,Saúde,Plano de saúde,Transferência
+2024-06-05,Receita,1048.96,Presente,Presente de aniversário,Dinheiro
+2024-06-05,Despesa,904.1,Impostos,Imposto de Renda,PIX
+2024-06-05,Despesa,155.89,Assinaturas,Spotify,Dinheiro
+2024-06-06,Receita,4988.79,Rendimento Investimento,CDB,Transferência
+2024-06-06,Receita,2001.76,Rendimento Investimento,Tesouro Direto,PIX
+2024-06-06,Despesa,1130.8,Moradia,Conta de Luz,Dinheiro
+2024-06-06,Despesa,1059.44,Educação,Livros,PIX
+2024-06-06,Despesa,823.91,Saúde,Farmácia,Cartão de Crédito
+2024-06-07,Receita,5137.73,Presente,Ajuda familiar,Dinheiro
+2024-06-07,Despesa,77.78,Lazer,Bar,Cartão de Crédito
+2024-06-08,Receita,3719.16,Salário,Salário Mensal,PIX
+2024-06-08,Receita,4880.74,Salário,Salário Mensal,Cartão de Crédito
+2024-06-08,Despesa,493.44,Lazer,Bar,Cartão de Crédito
+2024-06-09,Receita,2486.56,Freelance,Serviço Y,Transferência
+2024-06-09,Receita,3909.27,Salário,Salário Mensal,Dinheiro
+2024-06-09,Receita,3345.2,Presente,Presente de aniversário,PIX
+2024-06-09,Despesa,1026.59,Compras,Roupas,Transferência
+2024-06-10,Receita,4385.48,Salário,Salário Mensal,Transferência
+2024-06-10,Despesa,137.34,Moradia,Conta de Água,PIX
+2024-06-10,Despesa,244.38,Moradia,Internet,Transferência
+2024-06-10,Despesa,888.78,Impostos,IPVA,Transferência
+2024-06-11,Despesa,331.4,Assinaturas,Spotify,Dinheiro
+2024-06-11,Despesa,488.39,Educação,Faculdade,Dinheiro
+2024-06-12,Despesa,618.16,Alimentação,Supermercado,Dinheiro
+2024-06-13,Despesa,1190.0,Compras,Roupas,Transferência
+2024-06-13,Despesa,274.98,Impostos,Imposto de Renda,Cartão de Débito
+2024-06-14,Despesa,577.94,Moradia,Conta de Água,Cartão de Crédito
+2024-06-15,Despesa,223.32,Lazer,Netflix,Dinheiro
+2024-06-15,Despesa,318.98,Alimentação,Restaurante,Transferência
+2024-06-15,Despesa,463.44,Compras,Presentes,Transferência
+2024-06-16,Despesa,396.94,Assinaturas,Netflix,Cartão de Crédito
+2024-06-16,Despesa,1173.66,Transporte,Ônibus,Dinheiro
+2024-06-17,Despesa,573.08,Transporte,Ônibus,Cartão de Crédito
+2024-06-17,Despesa,1039.43,Impostos,IPVA,Cartão de Débito
+2024-06-17,Despesa,868.86,Alimentação,Restaurante,Cartão de Débito
+2024-06-18,Despesa,786.97,Saúde,Plano de saúde,PIX
+2024-06-18,Despesa,607.78,Saúde,Consulta médica,Transferência
+2024-06-19,Despesa,803.85,Lazer,Viagem,Dinheiro
+2024-06-19,Despesa,81.89,Moradia,Conta de Água,Transferência
+2024-06-19,Despesa,784.36,Moradia,Conta de Luz,Cartão de Débito
+2024-06-20,Despesa,1029.33,Impostos,IPVA,Transferência
+2024-06-20,Despesa,1017.29,Transporte,Manutenção carro,Dinheiro
+2024-06-21,Despesa,761.44,Educação,Curso online,Cartão de Débito
+2024-06-21,Despesa,601.98,Educação,Curso online,Transferência
+2024-06-21,Despesa,439.33,Transporte,Combustível,Cartão de Crédito
+2024-06-22,Despesa,752.73,Moradia,Conta de Luz,Transferência
+2024-06-22,Despesa,566.96,Saúde,Plano de saúde,PIX
+2024-06-22,Despesa,36.29,Assinaturas,Netflix,Cartão de Crédito
+2024-06-23,Despesa,1125.6,Saúde,Consulta médica,Transferência
+2024-06-24,Despesa,1083.58,Educação,Curso online,Cartão de Débito
+2024-06-24,Despesa,692.15,Saúde,Consulta médica,Cartão de Débito
+2024-06-24,Despesa,55.42,Saúde,Plano de saúde,Dinheiro
+2024-06-25,Despesa,342.46,Saúde,Consulta médica,Transferência
+2024-06-25,Despesa,867.16,Lazer,Bar,Cartão de Débito
+2024-06-26,Despesa,171.87,Compras,Eletrônicos,Dinheiro
+2024-06-27,Despesa,664.29,Alimentação,Supermercado,PIX
+2024-06-27,Despesa,672.99,Educação,Curso online,PIX
+2024-06-28,Despesa,915.39,Saúde,Plano de saúde,Cartão de Crédito
+2024-06-28,Despesa,363.74,Moradia,Conta de Luz,Cartão de Crédito
+2024-06-29,Despesa,663.3,Compras,Eletrônicos,Transferência
+2024-06-29,Despesa,1110.04,Alimentação,Supermercado,Dinheiro
+2024-06-30,Despesa,824.47,Saúde,Plano de saúde,Dinheiro
+2024-06-30,Despesa,761.8,Educação,Curso online,Dinheiro
+2024-07-01,Receita,2200.98,Presente,Presente de aniversário,Cartão de Crédito
+2024-07-01,Receita,5988.52,Presente,Presente de aniversário,Cartão de Crédito
+2024-07-01,Receita,3726.12,Rendimento Investimento,CDB,PIX
+2024-07-01,Despesa,899.49,Impostos,IPVA,PIX
+2024-07-02,Receita,3919.02,Freelance,Projeto X,Transferência
+2024-07-02,Receita,1629.97,Freelance,Serviço Y,PIX
+2024-07-02,Despesa,392.55,Educação,Faculdade,Dinheiro
+2024-07-03,Receita,5881.02,Freelance,Serviço Y,Cartão de Débito
+2024-07-03,Receita,2285.17,Freelance,Serviço Y,Transferência
+2024-07-03,Despesa,1072.43,Compras,Presentes,Cartão de Crédito
+2024-07-03,Despesa,281.38,Saúde,Consulta médica,Cartão de Débito
+2024-07-03,Despesa,831.75,Lazer,Cinema,Cartão de Débito
+2024-07-04,Receita,1218.07,Presente,Ajuda familiar,Cartão de Débito
+2024-07-04,Receita,963.3,Freelance,Serviço Y,PIX
+2024-07-04,Receita,638.93,Salário,Salário Mensal,Transferência
+2024-07-04,Despesa,979.52,Lazer,Viagem,Cartão de Débito
+2024-07-04,Despesa,551.24,Transporte,Uber,Cartão de Débito
+2024-07-05,Receita,3134.5,Rendimento Investimento,CDB,Cartão de Crédito
+2024-07-05,Receita,3444.28,Salário,Salário Mensal,Transferência
+2024-07-05,Receita,1516.54,Rendimento Investimento,CDB,Cartão de Débito
+2024-07-05,Despesa,596.7,Saúde,Consulta médica,Transferência
+2024-07-06,Receita,5846.51,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-07-06,Despesa,972.23,Alimentação,Padaria,Cartão de Crédito
+2024-07-07,Receita,2804.02,Salário,Salário Mensal,PIX
+2024-07-07,Receita,3495.36,Freelance,Projeto X,Dinheiro
+2024-07-07,Despesa,26.55,Transporte,Manutenção carro,Dinheiro
+2024-07-08,Receita,988.62,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-07-08,Receita,3415.52,Freelance,Serviço Y,Cartão de Crédito
+2024-07-08,Despesa,797.78,Compras,Presentes,Cartão de Débito
+2024-07-08,Despesa,466.81,Assinaturas,Netflix,Transferência
+2024-07-08,Despesa,317.03,Assinaturas,Spotify,Transferência
+2024-07-09,Receita,4974.69,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-07-09,Receita,3261.64,Rendimento Investimento,CDB,Transferência
+2024-07-09,Despesa,1067.32,Impostos,IPTU,Cartão de Débito
+2024-07-09,Despesa,447.6,Assinaturas,Netflix,Transferência
+2024-07-09,Despesa,833.27,Transporte,Ônibus,Transferência
+2024-07-10,Receita,1461.51,Salário,Salário Mensal,Transferência
+2024-07-10,Receita,1042.81,Rendimento Investimento,Tesouro Direto,PIX
+2024-07-10,Despesa,829.69,Lazer,Viagem,Cartão de Crédito
+2024-07-10,Despesa,465.54,Saúde,Plano de saúde,Cartão de Crédito
+2024-07-10,Despesa,455.5,Alimentação,Supermercado,Cartão de Débito
+2024-07-11,Despesa,728.66,Compras,Roupas,Transferência
+2024-07-11,Despesa,1127.89,Transporte,Uber,Transferência
+2024-07-11,Despesa,1073.12,Moradia,Internet,Cartão de Crédito
+2024-07-12,Despesa,1183.82,Saúde,Consulta médica,Cartão de Débito
+2024-07-12,Despesa,493.97,Assinaturas,Netflix,Transferência
+2024-07-12,Despesa,666.82,Compras,Eletrônicos,Dinheiro
+2024-07-13,Despesa,204.15,Lazer,Netflix,PIX
+2024-07-13,Despesa,767.16,Transporte,Combustível,Cartão de Crédito
+2024-07-14,Despesa,334.02,Compras,Roupas,Cartão de Crédito
+2024-07-14,Despesa,582.42,Compras,Eletrônicos,Cartão de Débito
+2024-07-15,Despesa,682.71,Impostos,Imposto de Renda,PIX
+2024-07-15,Despesa,796.82,Saúde,Consulta médica,Cartão de Crédito
+2024-07-16,Despesa,264.21,Compras,Eletrônicos,Cartão de Crédito
+2024-07-16,Despesa,1064.36,Alimentação,Padaria,Cartão de Crédito
+2024-07-17,Despesa,1173.45,Moradia,Aluguel,PIX
+2024-07-18,Despesa,1178.77,Assinaturas,Netflix,Cartão de Débito
+2024-07-18,Despesa,759.78,Lazer,Cinema,PIX
+2024-07-18,Despesa,326.27,Compras,Presentes,Dinheiro
+2024-07-19,Despesa,703.81,Compras,Eletrônicos,Cartão de Crédito
+2024-07-19,Despesa,98.81,Educação,Curso online,Cartão de Crédito
+2024-07-20,Despesa,786.37,Lazer,Viagem,PIX
+2024-07-21,Despesa,639.15,Alimentação,Padaria,Cartão de Crédito
+2024-07-21,Despesa,225.0,Compras,Presentes,PIX
+2024-07-22,Despesa,747.39,Saúde,Plano de saúde,Transferência
+2024-07-23,Despesa,1177.25,Assinaturas,Spotify,Cartão de Débito
+2024-07-24,Despesa,1026.12,Alimentação,Supermercado,Cartão de Débito
+2024-07-25,Despesa,383.69,Impostos,IPTU,PIX
+2024-07-26,Despesa,319.46,Impostos,IPVA,Cartão de Crédito
+2024-07-27,Despesa,955.81,Moradia,Aluguel,Cartão de Débito
+2024-07-27,Despesa,305.85,Alimentação,Padaria,Cartão de Crédito
+2024-07-28,Despesa,392.53,Educação,Curso online,Cartão de Crédito
+2024-07-28,Despesa,1152.73,Assinaturas,Netflix,Cartão de Crédito
+2024-07-29,Despesa,60.77,Lazer,Viagem,Dinheiro
+2024-07-29,Despesa,991.46,Alimentação,Restaurante,Dinheiro
+2024-07-30,Despesa,743.85,Assinaturas,Netflix,Transferência
+2024-07-31,Despesa,905.25,Assinaturas,Amazon Prime,Cartão de Crédito
+2024-07-31,Despesa,119.47,Transporte,Manutenção carro,Cartão de Débito
+2024-07-31,Despesa,1146.1,Transporte,Combustível,Transferência
+2024-08-01,Receita,3050.51,Presente,Presente de aniversário,Transferência
+2024-08-01,Despesa,259.15,Compras,Presentes,Cartão de Crédito
+2024-08-01,Despesa,841.83,Educação,Curso online,Dinheiro
+2024-08-01,Despesa,1126.26,Moradia,Internet,Cartão de Crédito
+2024-08-02,Receita,1935.58,Presente,Ajuda familiar,Dinheiro
+2024-08-02,Receita,1301.67,Salário,Salário Mensal,Cartão de Crédito
+2024-08-02,Despesa,707.69,Alimentação,Restaurante,Transferência
+2024-08-03,Receita,5243.74,Salário,Salário Mensal,Cartão de Crédito
+2024-08-03,Despesa,243.69,Assinaturas,Netflix,PIX
+2024-08-03,Despesa,769.8,Assinaturas,Amazon Prime,Dinheiro
+2024-08-04,Receita,2081.92,Rendimento Investimento,Ações,Cartão de Crédito
+2024-08-04,Receita,3656.97,Salário,Salário Mensal,Transferência
+2024-08-04,Despesa,1108.33,Saúde,Consulta médica,PIX
+2024-08-04,Despesa,479.73,Lazer,Cinema,Cartão de Débito
+2024-08-04,Despesa,911.07,Moradia,Aluguel,Cartão de Crédito
+2024-08-05,Receita,5901.26,Salário,Salário Mensal,Dinheiro
+2024-08-05,Receita,1108.61,Freelance,Serviço Y,Cartão de Crédito
+2024-08-05,Receita,2646.14,Salário,Salário Mensal,Cartão de Crédito
+2024-08-05,Despesa,1096.4,Lazer,Viagem,Dinheiro
+2024-08-05,Despesa,167.75,Impostos,Imposto de Renda,Dinheiro
+2024-08-06,Receita,856.04,Freelance,Projeto X,PIX
+2024-08-06,Receita,554.63,Rendimento Investimento,CDB,PIX
+2024-08-06,Despesa,510.07,Alimentação,Restaurante,Cartão de Crédito
+2024-08-07,Receita,4439.26,Salário,Salário Mensal,Transferência
+2024-08-07,Receita,5723.42,Freelance,Serviço Y,Cartão de Crédito
+2024-08-07,Despesa,266.72,Moradia,Internet,PIX
+2024-08-07,Despesa,772.54,Lazer,Netflix,Dinheiro
+2024-08-07,Despesa,618.37,Alimentação,Restaurante,Transferência
+2024-08-08,Receita,3412.75,Freelance,Serviço Y,Dinheiro
+2024-08-08,Receita,5481.56,Rendimento Investimento,CDB,Transferência
+2024-08-08,Despesa,305.06,Lazer,Netflix,Cartão de Débito
+2024-08-09,Receita,4913.77,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-08-09,Despesa,680.77,Moradia,Conta de Água,Transferência
+2024-08-09,Despesa,1173.48,Compras,Eletrônicos,Transferência
+2024-08-09,Despesa,536.39,Assinaturas,Spotify,Transferência
+2024-08-10,Receita,5552.06,Rendimento Investimento,Ações,Dinheiro
+2024-08-10,Despesa,52.79,Assinaturas,Netflix,PIX
+2024-08-10,Despesa,121.92,Educação,Curso online,Cartão de Débito
+2024-08-10,Despesa,1018.91,Moradia,Conta de Água,Dinheiro
+2024-08-11,Despesa,571.09,Transporte,Ônibus,PIX
+2024-08-11,Despesa,160.84,Impostos,Imposto de Renda,PIX
+2024-08-11,Despesa,41.81,Compras,Eletrônicos,Dinheiro
+2024-08-12,Despesa,340.86,Transporte,Ônibus,Cartão de Crédito
+2024-08-12,Despesa,637.42,Saúde,Consulta médica,PIX
+2024-08-13,Despesa,1163.49,Lazer,Cinema,Cartão de Débito
+2024-08-13,Despesa,439.26,Lazer,Bar,PIX
+2024-08-14,Despesa,890.43,Saúde,Farmácia,PIX
+2024-08-14,Despesa,658.61,Lazer,Netflix,Dinheiro
+2024-08-15,Despesa,713.28,Impostos,Imposto de Renda,PIX
+2024-08-16,Despesa,1149.94,Assinaturas,Netflix,Transferência
+2024-08-17,Despesa,119.09,Alimentação,Restaurante,PIX
+2024-08-17,Despesa,445.97,Alimentação,Padaria,Dinheiro
+2024-08-17,Despesa,1121.5,Moradia,Conta de Água,Cartão de Crédito
+2024-08-18,Despesa,365.41,Compras,Eletrônicos,Cartão de Crédito
+2024-08-18,Despesa,820.56,Transporte,Ônibus,PIX
+2024-08-18,Despesa,1022.05,Moradia,Conta de Água,Cartão de Crédito
+2024-08-19,Despesa,628.57,Assinaturas,Amazon Prime,Cartão de Débito
+2024-08-19,Despesa,967.5,Transporte,Ônibus,Transferência
+2024-08-20,Despesa,1184.19,Moradia,Conta de Água,PIX
+2024-08-20,Despesa,310.6,Impostos,IPTU,PIX
+2024-08-20,Despesa,833.08,Moradia,Internet,Cartão de Crédito
+2024-08-21,Despesa,336.18,Assinaturas,Spotify,Cartão de Crédito
+2024-08-22,Despesa,839.73,Alimentação,Restaurante,Cartão de Débito
+2024-08-23,Despesa,23.13,Alimentação,Restaurante,Transferência
+2024-08-23,Despesa,877.8,Saúde,Farmácia,Dinheiro
+2024-08-24,Despesa,235.82,Moradia,Conta de Luz,Cartão de Crédito
+2024-08-25,Despesa,955.17,Impostos,IPVA,PIX
+2024-08-25,Despesa,1101.03,Alimentação,Padaria,PIX
+2024-08-25,Despesa,771.81,Alimentação,Restaurante,PIX
+2024-08-26,Despesa,809.61,Transporte,Combustível,Cartão de Crédito
+2024-08-27,Despesa,864.67,Alimentação,Padaria,Cartão de Crédito
+2024-08-28,Despesa,327.01,Saúde,Consulta médica,Cartão de Crédito
+2024-08-29,Despesa,1066.67,Moradia,Conta de Água,Dinheiro
+2024-08-29,Despesa,95.83,Lazer,Cinema,PIX
+2024-08-29,Despesa,713.48,Moradia,Internet,Cartão de Débito
+2024-08-30,Despesa,446.81,Moradia,Aluguel,Dinheiro
+2024-08-30,Despesa,880.09,Transporte,Uber,Dinheiro
+2024-08-30,Despesa,593.11,Impostos,IPTU,PIX
+2024-08-31,Despesa,1003.33,Lazer,Bar,PIX
+2024-09-01,Receita,3672.98,Rendimento Investimento,Tesouro Direto,Transferência
+2024-09-01,Receita,5847.73,Salário,Salário Mensal,Cartão de Crédito
+2024-09-01,Receita,2976.13,Rendimento Investimento,Tesouro Direto,PIX
+2024-09-01,Despesa,879.88,Educação,Livros,Transferência
+2024-09-02,Receita,3218.29,Freelance,Projeto X,PIX
+2024-09-02,Despesa,921.59,Educação,Faculdade,Cartão de Débito
+2024-09-03,Receita,1656.84,Freelance,Projeto X,PIX
+2024-09-03,Receita,2499.73,Freelance,Serviço Y,Cartão de Crédito
+2024-09-03,Receita,829.01,Presente,Presente de aniversário,Transferência
+2024-09-03,Despesa,1015.49,Moradia,Internet,Dinheiro
+2024-09-03,Despesa,255.7,Saúde,Farmácia,Cartão de Crédito
+2024-09-03,Despesa,469.02,Saúde,Consulta médica,Dinheiro
+2024-09-04,Receita,3256.88,Rendimento Investimento,CDB,PIX
+2024-09-04,Receita,1390.29,Rendimento Investimento,CDB,Transferência
+2024-09-04,Receita,4552.45,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-09-04,Despesa,1096.94,Compras,Eletrônicos,Cartão de Crédito
+2024-09-05,Receita,3544.98,Salário,Salário Mensal,Cartão de Crédito
+2024-09-05,Despesa,1086.44,Lazer,Netflix,Cartão de Débito
+2024-09-06,Receita,5069.79,Salário,Salário Mensal,Cartão de Débito
+2024-09-06,Despesa,415.24,Impostos,IPTU,Dinheiro
+2024-09-06,Despesa,756.82,Alimentação,Restaurante,Cartão de Débito
+2024-09-06,Despesa,43.98,Educação,Curso online,Cartão de Débito
+2024-09-07,Receita,716.72,Rendimento Investimento,CDB,Cartão de Crédito
+2024-09-07,Despesa,862.7,Lazer,Netflix,Transferência
+2024-09-08,Receita,4662.88,Rendimento Investimento,CDB,Transferência
+2024-09-08,Receita,5689.87,Salário,Salário Mensal,Cartão de Crédito
+2024-09-08,Receita,3513.07,Rendimento Investimento,Ações,Cartão de Crédito
+2024-09-08,Despesa,983.94,Alimentação,Supermercado,Dinheiro
+2024-09-08,Despesa,190.1,Transporte,Ônibus,Dinheiro
+2024-09-09,Receita,1983.3,Salário,Salário Mensal,Dinheiro
+2024-09-09,Receita,1821.47,Presente,Ajuda familiar,Transferência
+2024-09-09,Receita,3303.98,Presente,Presente de aniversário,Transferência
+2024-09-09,Despesa,84.38,Saúde,Consulta médica,Dinheiro
+2024-09-09,Despesa,428.45,Alimentação,Padaria,PIX
+2024-09-10,Receita,5086.73,Presente,Ajuda familiar,PIX
+2024-09-10,Receita,970.25,Salário,Salário Mensal,PIX
+2024-09-10,Despesa,568.49,Transporte,Ônibus,Transferência
+2024-09-10,Despesa,717.12,Impostos,Imposto de Renda,Cartão de Débito
+2024-09-11,Despesa,483.62,Assinaturas,Amazon Prime,Cartão de Crédito
+2024-09-11,Despesa,168.58,Saúde,Farmácia,Transferência
+2024-09-12,Despesa,1035.64,Assinaturas,Amazon Prime,Cartão de Débito
+2024-09-13,Despesa,441.19,Saúde,Consulta médica,Transferência
+2024-09-14,Despesa,283.23,Compras,Presentes,Transferência
+2024-09-14,Despesa,648.3,Transporte,Uber,Dinheiro
+2024-09-15,Despesa,556.86,Alimentação,Padaria,Cartão de Crédito
+2024-09-16,Despesa,843.76,Educação,Livros,Cartão de Crédito
+2024-09-16,Despesa,337.5,Impostos,IPTU,Cartão de Débito
+2024-09-16,Despesa,486.96,Compras,Eletrônicos,Dinheiro
+2024-09-17,Despesa,329.88,Saúde,Consulta médica,Transferência
+2024-09-17,Despesa,786.99,Lazer,Viagem,Cartão de Crédito
+2024-09-17,Despesa,742.18,Assinaturas,Spotify,Dinheiro
+2024-09-18,Despesa,1022.84,Alimentação,Restaurante,Dinheiro
+2024-09-18,Despesa,94.01,Compras,Presentes,PIX
+2024-09-18,Despesa,761.37,Assinaturas,Amazon Prime,Cartão de Débito
+2024-09-19,Despesa,867.65,Assinaturas,Netflix,Dinheiro
+2024-09-19,Despesa,77.91,Educação,Livros,Dinheiro
+2024-09-19,Despesa,242.82,Alimentação,Supermercado,Cartão de Crédito
+2024-09-20,Despesa,729.57,Moradia,Conta de Luz,PIX
+2024-09-20,Despesa,569.06,Lazer,Bar,PIX
+2024-09-20,Despesa,510.74,Transporte,Uber,Dinheiro
+2024-09-21,Despesa,84.17,Transporte,Combustível,Cartão de Crédito
+2024-09-21,Despesa,588.5,Alimentação,Restaurante,Dinheiro
+2024-09-21,Despesa,926.57,Assinaturas,Amazon Prime,Cartão de Crédito
+2024-09-22,Despesa,121.09,Lazer,Netflix,Cartão de Crédito
+2024-09-22,Despesa,654.35,Moradia,Internet,Dinheiro
+2024-09-22,Despesa,1046.71,Educação,Curso online,Transferência
+2024-09-23,Despesa,276.06,Compras,Eletrônicos,Transferência
+2024-09-24,Despesa,859.89,Compras,Eletrônicos,Dinheiro
+2024-09-24,Despesa,563.61,Moradia,Conta de Luz,Cartão de Débito
+2024-09-25,Despesa,973.28,Alimentação,Padaria,Cartão de Débito
+2024-09-25,Despesa,982.41,Transporte,Manutenção carro,PIX
+2024-09-25,Despesa,535.1,Transporte,Ônibus,PIX
+2024-09-26,Despesa,990.5,Impostos,IPTU,Transferência
+2024-09-26,Despesa,323.91,Impostos,Imposto de Renda,PIX
+2024-09-27,Despesa,424.48,Educação,Curso online,Transferência
+2024-09-27,Despesa,154.06,Educação,Livros,Dinheiro
+2024-09-28,Despesa,941.16,Transporte,Manutenção carro,Cartão de Débito
+2024-09-29,Despesa,470.61,Transporte,Uber,Cartão de Débito
+2024-09-30,Despesa,312.48,Educação,Livros,Cartão de Débito
+2024-09-30,Despesa,438.18,Impostos,Imposto de Renda,Transferência
+2024-09-30,Despesa,804.78,Impostos,IPVA,Cartão de Crédito
+2024-10-01,Receita,1097.1,Rendimento Investimento,Tesouro Direto,Transferência
+2024-10-01,Despesa,514.77,Saúde,Farmácia,Cartão de Crédito
+2024-10-01,Despesa,645.07,Lazer,Netflix,Cartão de Crédito
+2024-10-02,Receita,5651.31,Rendimento Investimento,CDB,Cartão de Crédito
+2024-10-02,Receita,5212.48,Freelance,Projeto X,Dinheiro
+2024-10-02,Despesa,656.71,Saúde,Plano de saúde,Cartão de Crédito
+2024-10-03,Receita,4969.57,Presente,Ajuda familiar,PIX
+2024-10-03,Despesa,130.36,Lazer,Bar,Transferência
+2024-10-04,Receita,3180.69,Presente,Ajuda familiar,Dinheiro
+2024-10-04,Receita,4052.47,Freelance,Projeto X,PIX
+2024-10-04,Receita,5950.19,Rendimento Investimento,Ações,Dinheiro
+2024-10-04,Despesa,575.36,Educação,Faculdade,Dinheiro
+2024-10-04,Despesa,230.13,Alimentação,Restaurante,Dinheiro
+2024-10-04,Despesa,188.37,Compras,Presentes,Cartão de Crédito
+2024-10-05,Receita,4317.09,Rendimento Investimento,Ações,Transferência
+2024-10-05,Receita,5853.49,Freelance,Serviço Y,PIX
+2024-10-05,Receita,790.17,Rendimento Investimento,CDB,Cartão de Débito
+2024-10-05,Despesa,1198.86,Alimentação,Padaria,Cartão de Crédito
+2024-10-05,Despesa,916.82,Transporte,Ônibus,Cartão de Crédito
+2024-10-06,Receita,3765.41,Salário,Salário Mensal,Transferência
+2024-10-06,Receita,4892.18,Presente,Ajuda familiar,PIX
+2024-10-06,Receita,3853.02,Presente,Ajuda familiar,Dinheiro
+2024-10-06,Despesa,822.89,Transporte,Combustível,PIX
+2024-10-06,Despesa,539.91,Moradia,Aluguel,Dinheiro
+2024-10-06,Despesa,589.47,Assinaturas,Netflix,Cartão de Débito
+2024-10-07,Receita,3125.57,Freelance,Projeto X,Cartão de Crédito
+2024-10-07,Receita,3752.68,Presente,Ajuda familiar,Cartão de Crédito
+2024-10-07,Despesa,435.43,Impostos,IPTU,Transferência
+2024-10-07,Despesa,280.74,Transporte,Combustível,Cartão de Crédito
+2024-10-08,Receita,3263.04,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-10-08,Despesa,209.46,Assinaturas,Amazon Prime,Cartão de Crédito
+2024-10-08,Despesa,109.45,Assinaturas,Amazon Prime,Cartão de Crédito
+2024-10-09,Receita,3191.87,Freelance,Projeto X,Dinheiro
+2024-10-09,Despesa,610.13,Compras,Roupas,Dinheiro
+2024-10-09,Despesa,190.33,Saúde,Consulta médica,Dinheiro
+2024-10-10,Receita,3656.01,Presente,Presente de aniversário,PIX
+2024-10-10,Receita,1140.73,Freelance,Projeto X,Cartão de Débito
+2024-10-10,Receita,1474.59,Rendimento Investimento,CDB,Dinheiro
+2024-10-10,Despesa,181.0,Transporte,Ônibus,Cartão de Débito
+2024-10-11,Despesa,257.47,Educação,Livros,Transferência
+2024-10-11,Despesa,60.17,Saúde,Consulta médica,Cartão de Débito
+2024-10-12,Despesa,1087.93,Impostos,IPVA,Transferência
+2024-10-12,Despesa,883.44,Impostos,Imposto de Renda,Transferência
+2024-10-13,Despesa,947.14,Lazer,Viagem,Dinheiro
+2024-10-13,Despesa,273.2,Alimentação,Restaurante,PIX
+2024-10-14,Despesa,832.8,Assinaturas,Netflix,Dinheiro
+2024-10-15,Despesa,644.28,Saúde,Farmácia,Cartão de Crédito
+2024-10-15,Despesa,1075.32,Transporte,Combustível,Transferência
+2024-10-16,Despesa,574.48,Assinaturas,Netflix,Dinheiro
+2024-10-16,Despesa,535.16,Saúde,Farmácia,Cartão de Crédito
+2024-10-17,Despesa,387.5,Educação,Curso online,Dinheiro
+2024-10-17,Despesa,287.31,Assinaturas,Spotify,Cartão de Débito
+2024-10-18,Despesa,570.62,Transporte,Uber,Dinheiro
+2024-10-18,Despesa,751.4,Transporte,Combustível,Dinheiro
+2024-10-19,Despesa,171.93,Alimentação,Restaurante,Dinheiro
+2024-10-19,Despesa,544.57,Compras,Presentes,Cartão de Débito
+2024-10-19,Despesa,686.07,Educação,Curso online,Dinheiro
+2024-10-20,Despesa,1018.56,Assinaturas,Spotify,Cartão de Crédito
+2024-10-20,Despesa,749.98,Assinaturas,Spotify,PIX
+2024-10-21,Despesa,442.14,Impostos,IPVA,Cartão de Crédito
+2024-10-21,Despesa,259.23,Impostos,IPVA,Dinheiro
+2024-10-22,Despesa,393.82,Impostos,Imposto de Renda,Dinheiro
+2024-10-22,Despesa,228.3,Educação,Faculdade,Transferência
+2024-10-23,Despesa,281.2,Lazer,Netflix,PIX
+2024-10-23,Despesa,277.65,Transporte,Ônibus,Cartão de Débito
+2024-10-23,Despesa,854.52,Impostos,IPTU,PIX
+2024-10-24,Despesa,265.94,Lazer,Bar,Cartão de Crédito
+2024-10-24,Despesa,1012.94,Compras,Presentes,Dinheiro
+2024-10-24,Despesa,538.62,Lazer,Netflix,PIX
+2024-10-25,Despesa,481.2,Educação,Livros,Transferência
+2024-10-25,Despesa,1018.22,Assinaturas,Spotify,Transferência
+2024-10-26,Despesa,1049.44,Assinaturas,Amazon Prime,PIX
+2024-10-26,Despesa,900.33,Moradia,Conta de Água,Cartão de Crédito
+2024-10-27,Despesa,258.88,Saúde,Consulta médica,Transferência
+2024-10-27,Despesa,1133.48,Moradia,Conta de Água,PIX
+2024-10-28,Despesa,955.43,Moradia,Conta de Luz,Cartão de Débito
+2024-10-28,Despesa,922.79,Alimentação,Supermercado,Transferência
+2024-10-29,Despesa,867.48,Lazer,Bar,Transferência
+2024-10-29,Despesa,554.38,Transporte,Ônibus,Transferência
+2024-10-30,Despesa,1030.16,Saúde,Farmácia,PIX
+2024-10-30,Despesa,283.0,Impostos,IPTU,Cartão de Débito
+2024-10-31,Despesa,150.31,Saúde,Farmácia,Dinheiro
+2024-10-31,Despesa,21.51,Educação,Curso online,PIX
+2024-10-31,Despesa,482.52,Alimentação,Padaria,Cartão de Débito
+2024-11-01,Receita,3258.98,Freelance,Projeto X,Transferência
+2024-11-01,Receita,4479.33,Rendimento Investimento,CDB,Cartão de Débito
+2024-11-01,Despesa,807.76,Transporte,Combustível,Cartão de Crédito
+2024-11-01,Despesa,61.98,Assinaturas,Amazon Prime,Transferência
+2024-11-01,Despesa,1102.45,Compras,Eletrônicos,Cartão de Débito
+2024-11-02,Receita,4381.4,Rendimento Investimento,CDB,Dinheiro
+2024-11-02,Receita,4167.41,Salário,Salário Mensal,Cartão de Débito
+2024-11-02,Despesa,1023.16,Educação,Curso online,Transferência
+2024-11-03,Receita,5312.38,Freelance,Serviço Y,PIX
+2024-11-03,Despesa,828.29,Saúde,Consulta médica,Cartão de Crédito
+2024-11-03,Despesa,530.24,Saúde,Farmácia,PIX
+2024-11-04,Receita,3484.62,Freelance,Serviço Y,Cartão de Crédito
+2024-11-04,Receita,2609.12,Rendimento Investimento,Tesouro Direto,Transferência
+2024-11-04,Despesa,580.19,Compras,Roupas,PIX
+2024-11-04,Despesa,327.45,Compras,Eletrônicos,Transferência
+2024-11-04,Despesa,1188.04,Lazer,Cinema,Dinheiro
+2024-11-05,Receita,3439.2,Rendimento Investimento,Tesouro Direto,Transferência
+2024-11-05,Despesa,838.09,Transporte,Combustível,Transferência
+2024-11-05,Despesa,840.97,Transporte,Manutenção carro,PIX
+2024-11-06,Receita,2314.95,Presente,Presente de aniversário,PIX
+2024-11-06,Despesa,502.63,Assinaturas,Amazon Prime,PIX
+2024-11-07,Receita,5520.58,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-11-07,Despesa,505.48,Compras,Roupas,Transferência
+2024-11-08,Receita,3333.45,Rendimento Investimento,CDB,PIX
+2024-11-08,Despesa,251.29,Moradia,Conta de Água,Cartão de Crédito
+2024-11-08,Despesa,885.42,Transporte,Uber,Cartão de Débito
+2024-11-09,Receita,5505.26,Salário,Salário Mensal,Cartão de Crédito
+2024-11-09,Receita,3689.83,Rendimento Investimento,Ações,Transferência
+2024-11-09,Despesa,161.61,Saúde,Plano de saúde,Dinheiro
+2024-11-10,Receita,5718.08,Freelance,Projeto X,PIX
+2024-11-10,Receita,1517.13,Salário,Salário Mensal,Transferência
+2024-11-10,Receita,1768.1,Freelance,Projeto X,Dinheiro
+2024-11-10,Despesa,1079.27,Moradia,Conta de Luz,Cartão de Débito
+2024-11-10,Despesa,374.86,Moradia,Conta de Água,Dinheiro
+2024-11-10,Despesa,1190.92,Saúde,Consulta médica,Transferência
+2024-11-11,Despesa,668.29,Saúde,Consulta médica,Cartão de Crédito
+2024-11-11,Despesa,452.56,Moradia,Internet,Transferência
+2024-11-11,Despesa,760.35,Compras,Eletrônicos,Dinheiro
+2024-11-12,Despesa,161.45,Moradia,Conta de Luz,Dinheiro
+2024-11-13,Despesa,461.43,Moradia,Conta de Luz,Cartão de Débito
+2024-11-13,Despesa,425.98,Compras,Eletrônicos,Transferência
+2024-11-13,Despesa,310.73,Alimentação,Restaurante,Cartão de Débito
+2024-11-14,Despesa,1072.54,Compras,Eletrônicos,Dinheiro
+2024-11-15,Despesa,903.53,Transporte,Combustível,Dinheiro
+2024-11-16,Despesa,113.23,Impostos,IPVA,Cartão de Crédito
+2024-11-17,Despesa,257.82,Transporte,Uber,Cartão de Débito
+2024-11-17,Despesa,775.02,Alimentação,Supermercado,Dinheiro
+2024-11-17,Despesa,650.4,Saúde,Consulta médica,Cartão de Crédito
+2024-11-18,Despesa,1064.43,Moradia,Aluguel,Transferência
+2024-11-18,Despesa,316.49,Impostos,Imposto de Renda,Dinheiro
+2024-11-19,Despesa,435.26,Educação,Curso online,Cartão de Crédito
+2024-11-20,Despesa,106.29,Lazer,Viagem,Dinheiro
+2024-11-20,Despesa,429.91,Assinaturas,Amazon Prime,PIX
+2024-11-20,Despesa,478.49,Lazer,Viagem,Cartão de Crédito
+2024-11-21,Despesa,914.11,Compras,Roupas,PIX
+2024-11-22,Despesa,619.35,Impostos,IPTU,PIX
+2024-11-22,Despesa,700.3,Impostos,IPVA,PIX
+2024-11-22,Despesa,295.11,Alimentação,Supermercado,PIX
+2024-11-23,Despesa,1023.13,Compras,Eletrônicos,Dinheiro
+2024-11-24,Despesa,792.7,Saúde,Farmácia,Cartão de Crédito
+2024-11-24,Despesa,468.15,Lazer,Cinema,Cartão de Débito
+2024-11-24,Despesa,646.85,Impostos,IPTU,Transferência
+2024-11-25,Despesa,222.02,Compras,Roupas,Cartão de Débito
+2024-11-25,Despesa,225.19,Alimentação,Restaurante,Cartão de Crédito
+2024-11-25,Despesa,326.2,Educação,Faculdade,Cartão de Crédito
+2024-11-26,Despesa,484.32,Assinaturas,Amazon Prime,PIX
+2024-11-26,Despesa,281.11,Impostos,IPVA,Dinheiro
+2024-11-27,Despesa,1159.95,Lazer,Viagem,PIX
+2024-11-27,Despesa,846.75,Saúde,Farmácia,Transferência
+2024-11-28,Despesa,399.25,Compras,Eletrônicos,Transferência
+2024-11-28,Despesa,490.49,Alimentação,Padaria,Transferência
+2024-11-28,Despesa,897.56,Assinaturas,Spotify,PIX
+2024-11-29,Despesa,117.72,Transporte,Manutenção carro,Cartão de Débito
+2024-11-29,Despesa,354.72,Lazer,Bar,Transferência
+2024-11-29,Despesa,374.91,Impostos,Imposto de Renda,Transferência
+2024-11-30,Despesa,791.19,Alimentação,Restaurante,Dinheiro
+2024-11-30,Despesa,1094.35,Saúde,Farmácia,PIX
+2024-11-30,Despesa,111.23,Moradia,Conta de Luz,Transferência
+2024-12-01,Receita,1058.55,Freelance,Projeto X,Transferência
+2024-12-01,Despesa,1108.45,Compras,Roupas,Transferência
+2024-12-01,Despesa,957.96,Compras,Eletrônicos,PIX
+2024-12-02,Receita,5304.89,Rendimento Investimento,Tesouro Direto,Dinheiro
+2024-12-02,Receita,887.37,Salário,Salário Mensal,Dinheiro
+2024-12-02,Despesa,93.82,Transporte,Combustível,PIX
+2024-12-02,Despesa,1006.37,Impostos,Imposto de Renda,Transferência
+2024-12-02,Despesa,404.56,Compras,Roupas,PIX
+2024-12-03,Receita,5855.34,Salário,Salário Mensal,PIX
+2024-12-03,Receita,5400.48,Presente,Presente de aniversário,Dinheiro
+2024-12-03,Despesa,706.07,Compras,Roupas,Cartão de Crédito
+2024-12-04,Receita,4452.83,Presente,Ajuda familiar,Dinheiro
+2024-12-04,Despesa,863.75,Educação,Faculdade,Cartão de Crédito
+2024-12-05,Receita,3100.45,Freelance,Serviço Y,Cartão de Crédito
+2024-12-05,Receita,1685.3,Salário,Salário Mensal,PIX
+2024-12-05,Despesa,709.48,Moradia,Conta de Luz,Transferência
+2024-12-05,Despesa,52.91,Transporte,Uber,Transferência
+2024-12-05,Despesa,52.8,Educação,Curso online,Cartão de Débito
+2024-12-06,Receita,700.2,Salário,Salário Mensal,Cartão de Crédito
+2024-12-06,Receita,5970.41,Rendimento Investimento,Tesouro Direto,PIX
+2024-12-06,Receita,2622.38,Freelance,Projeto X,Transferência
+2024-12-06,Despesa,339.22,Lazer,Viagem,PIX
+2024-12-07,Receita,3984.9,Presente,Ajuda familiar,Dinheiro
+2024-12-07,Receita,5705.28,Freelance,Serviço Y,PIX
+2024-12-07,Despesa,635.93,Educação,Faculdade,PIX
+2024-12-08,Receita,1901.5,Presente,Presente de aniversário,Dinheiro
+2024-12-08,Receita,1645.72,Rendimento Investimento,Tesouro Direto,Transferência
+2024-12-08,Despesa,135.08,Lazer,Viagem,Cartão de Crédito
+2024-12-09,Receita,2165.88,Rendimento Investimento,Tesouro Direto,Transferência
+2024-12-09,Receita,2100.55,Rendimento Investimento,Tesouro Direto,Cartão de Crédito
+2024-12-09,Despesa,725.8,Impostos,IPTU,Dinheiro
+2024-12-10,Receita,5364.6,Presente,Presente de aniversário,Cartão de Débito
+2024-12-10,Receita,1319.41,Presente,Presente de aniversário,PIX
+2024-12-10,Receita,668.09,Presente,Ajuda familiar,Dinheiro
+2024-12-10,Despesa,441.96,Alimentação,Restaurante,Transferência
+2024-12-10,Despesa,464.44,Transporte,Uber,PIX
+2024-12-10,Despesa,1173.54,Transporte,Manutenção carro,Transferência
+2024-12-11,Despesa,199.77,Educação,Faculdade,Dinheiro
+2024-12-11,Despesa,36.95,Educação,Curso online,Dinheiro
+2024-12-12,Despesa,550.85,Saúde,Farmácia,Cartão de Débito
+2024-12-12,Despesa,809.29,Educação,Curso online,Cartão de Crédito
+2024-12-12,Despesa,114.27,Saúde,Consulta médica,Cartão de Crédito
+2024-12-13,Despesa,448.07,Compras,Roupas,PIX
+2024-12-13,Despesa,575.91,Educação,Curso online,Transferência
+2024-12-13,Despesa,915.77,Saúde,Farmácia,Dinheiro
+2024-12-14,Despesa,1097.35,Educação,Faculdade,PIX
+2024-12-15,Despesa,1134.6,Saúde,Plano de saúde,Cartão de Débito
+2024-12-15,Despesa,164.95,Educação,Curso online,PIX
+2024-12-16,Despesa,1178.73,Assinaturas,Spotify,PIX
+2024-12-16,Despesa,1074.95,Transporte,Uber,PIX
+2024-12-17,Despesa,437.68,Transporte,Combustível,Transferência
+2024-12-18,Despesa,946.2,Impostos,IPVA,Cartão de Crédito
+2024-12-19,Despesa,421.51,Transporte,Ônibus,Cartão de Débito
+2024-12-19,Despesa,1165.83,Moradia,Aluguel,Cartão de Débito
+2024-12-19,Despesa,927.24,Assinaturas,Amazon Prime,Cartão de Débito
+2024-12-20,Despesa,302.7,Alimentação,Restaurante,PIX
+2024-12-21,Despesa,1092.28,Assinaturas,Netflix,Cartão de Crédito
+2024-12-21,Despesa,1015.12,Educação,Curso online,PIX
+2024-12-21,Despesa,827.48,Lazer,Cinema,Cartão de Crédito
+2024-12-22,Despesa,801.15,Compras,Roupas,PIX
+2024-12-23,Despesa,960.45,Alimentação,Supermercado,Cartão de Débito
+2024-12-24,Despesa,935.83,Moradia,Internet,Cartão de Crédito
+2024-12-25,Despesa,1003.76,Assinaturas,Amazon Prime,Dinheiro
+2024-12-25,Despesa,708.48,Lazer,Cinema,Cartão de Débito
+2024-12-26,Despesa,773.93,Compras,Eletrônicos,Cartão de Crédito
+2024-12-27,Despesa,896.12,Moradia,Conta de Água,Dinheiro
+2024-12-28,Despesa,292.43,Compras,Roupas,Transferência
+2024-12-29,Despesa,511.22,Impostos,IPTU,Dinheiro
+2024-12-29,Despesa,98.95,Alimentação,Supermercado,Dinheiro
+2024-12-30,Despesa,128.54,Saúde,Plano de saúde,Dinheiro
+2024-12-31,Despesa,665.92,Compras,Presentes,Cartão de Débito
