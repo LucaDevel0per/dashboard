@@ -29,7 +29,7 @@ Este projeto é um **dashboard interativo de finanças pessoais** desenvolvido c
 
 ```bash
 git clone https://github.com/LucaDevel0per/dashboard.git
-cd seu-repo
+cd dashboard
 ```
 
 2. Instale as dependências:
