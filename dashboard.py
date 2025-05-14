@@ -101,7 +101,7 @@ if mostrar_tabela:
         mime="text/csv"
     )
 
-st.sidebar.markdown("[🌐 GitHub do Projeto](https://github.com/seu-usuario/seu-repo)")
+st.sidebar.markdown("[🌐 GitHub do Projeto](https://github.com/LucaDevel0per/dashboard)")
 
 
 # st.dataframe(df.sample(5)) #mostra a tabela interativa para analisarmos os dados.
